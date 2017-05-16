@@ -1,0 +1,14 @@
+server:
+    port: 9161
+
+management:
+  security:
+    enabled: false
+
+api:
+  twitter:
+    secrets:
+      consumerKey: Ut1khjRAmZ5DLCWWNJlbCa0QB
+      consumerSecret: bYz1QWfrpC7v2eENWXM6ad6DBNMWjMQA69Ml7La0pzNfDqfC5W
+      accessToken: 24872669-SQWO3bky53Mz7VcbDn5VlNzmHeMp0zV8vCR0UvPvi
+      accessTokenSecret: SqBR95cwpYmbUyyqsJml14WOBpcliO4c7Ns9bqWXsZPqk
