@@ -4,4 +4,15 @@ People tend to get confused often while buying online as there are unlimited opt
 
 # project images
 
+**1. HomePage :** 
+
 ![alt text](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/image1.png)
+
+**2.  Search Product :**
+
+![alt text](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/image2.png)
+
+**3. Results :**
+
+![alt text](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/image3.png)
+
