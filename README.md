@@ -20,3 +20,4 @@ People tend to get confused often while buying online as there are unlimited opt
 https://github.com/SJSU272LabS17/Project-Team-1/blob/master/cmpe_272_report.pdf
 
 # Presentation
+https://github.com/SJSU272LabS17/Project-Team-1/blob/master/goBuy.pptx
