@@ -4,4 +4,4 @@ People tend to get confused often while buying online as there are unlimited opt
 
 # project images
 
-![alt text](https://github.com/SJSU272LabS17/Project-Team-1/images1.png)
+![alt text](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/image1.png)
