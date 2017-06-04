@@ -24,4 +24,6 @@ https://github.com/SJSU272LabS17/Project-Team-1/blob/master/goBuy.pptx
 
 # Video 
 
-![Demo](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/2017-06-04_presentation.mov)
+![Watch the video](https://github.com/SJSU272LabS17/Project-Team-1/blob/master/2017-06-04_presentation.mov)
+
+click on the video icon and download the video.
