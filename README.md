@@ -21,3 +21,7 @@ https://github.com/SJSU272LabS17/Project-Team-1/blob/master/cmpe_272_report.pdf
 
 # Presentation
 https://github.com/SJSU272LabS17/Project-Team-1/blob/master/goBuy.pptx
+
+# Video 
+
+[![Watch the video]()
